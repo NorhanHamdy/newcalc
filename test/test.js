@@ -1,4 +1,4 @@
-const operations = require('./operations.js');
+const operations = require('../operations.js');
 const assert = require('assert');
 
 it ('correctively calculates the sum of 1 and 3', () => {
